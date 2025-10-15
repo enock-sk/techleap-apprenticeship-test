@@ -7,7 +7,7 @@ This repository contains solutions for the TechLeap Apprenticeship technical tes
   - `q1_second_largest.py`: Function to find the second-largest number in a list.
   - `q2_page_optimization.md`: Explanation of page load optimization techniques.
 - **SECTION2**: Web/Software Development
-  - `q3_frontend_fetch.jsx`: React component to fetch and display user data with loading/error states.
+  - `myapp/UserProfile.jsx`: React component to fetch and display user data with loading/error states.
   - `q4_total_revenue.py`: Function to calculate total sales from a dataset.
 - **SECTION3**: Debugging & Reasoning
   - `q5_debugging.py`: Analysis and fix for a buggy code snippet.
