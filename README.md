@@ -19,7 +19,7 @@ This repository contains solutions for the TechLeap Apprenticeship technical tes
 - Each file includes explanations or comments addressing the requirements.
 - To test the code:
   - Python files: Run with `python <filename>.py`.
-  - React component: Integrate into a React project and run with `npm start`.
+  - React component: `cd myapp` , `npm install` and run by  `npm start`.
 
 ## Submission
 Submitted by: ENOCK KIPLANGAT 
