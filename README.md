@@ -25,3 +25,4 @@ This repository contains solutions for the TechLeap Apprenticeship technical tes
 Submitted by: ENOCK KIPLANGAT 
 Deadline: 15th October 2025  
 Contact: 0724299505 OR ekiplangat64@gmail.com
+Thankyou
